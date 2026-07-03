@@ -1,0 +1,16 @@
+# Secrets
+token.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime data (regenerated automatically)
+data/cache/
+
+# OS/editor
+.DS_Store
+.vscode/
