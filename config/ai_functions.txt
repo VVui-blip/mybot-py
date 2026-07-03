@@ -1,0 +1,13 @@
+/assistant - AI assistant that answers questions, helps with coding, debugging, programming, and general knowledge.
+/discordprofile - View detailed information about a Discord user profile.
+/githubaccount - Search and display information about a GitHub account.
+/help - Display all available bot commands.
+/minecraftaccount - Search information about a Minecraft account.
+/music - Search music information and tracks.
+/news - Search the latest news from Google News.
+/robloxanimation - Search Roblox animations by ID or keyword.
+/robloxassets - Search Roblox assets such as models, decals, audio, and more.
+/robloxuser - Search Roblox user profiles and information.
+/scriptblox - Search scripts from ScriptBlox.
+/youtubevideo - Analyze and summarize information from a YouTube video.
+/credits - bot credits
