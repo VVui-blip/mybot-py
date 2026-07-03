@@ -1,0 +1,1022 @@
+[
+    {
+        "name": "Astronaut Run",
+        "id": 891636393,
+        "type": "Run",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Walk",
+        "id": 891636393,
+        "type": "Walk",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Jump",
+        "id": 891627522,
+        "type": "Jump",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Idle 1",
+        "id": 891621366,
+        "type": "Idle",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Idle 2",
+        "id": 891633237,
+        "type": "Idle",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Idle 3",
+        "id": 1047759695,
+        "type": "Idle",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Fall",
+        "id": 891617961,
+        "type": "Fall",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Swim",
+        "id": 891639666,
+        "type": "Swim",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut SwimIdle",
+        "id": 891663592,
+        "type": "SwimIdle",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Astronaut Climb",
+        "id": 891609353,
+        "type": "Climb",
+        "package": "Astronaut"
+    },
+    {
+        "name": "Bubbly Run",
+        "id": 910025107,
+        "type": "Run",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Walk",
+        "id": 910034870,
+        "type": "Walk",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Jump",
+        "id": 910016857,
+        "type": "Jump",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Idle 1",
+        "id": 910004836,
+        "type": "Idle",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Idle 2",
+        "id": 910009958,
+        "type": "Idle",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Idle 3",
+        "id": 1018536639,
+        "type": "Idle",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Fall",
+        "id": 910001910,
+        "type": "Fall",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Swim",
+        "id": 910028158,
+        "type": "Swim",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly SwimIdle",
+        "id": 910030921,
+        "type": "SwimIdle",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Bubbly Climb",
+        "id": 909997997,
+        "type": "Climb",
+        "package": "Bubbly"
+    },
+    {
+        "name": "Cartoony Run",
+        "id": 742638842,
+        "type": "Run",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Walk",
+        "id": 742640026,
+        "type": "Walk",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Jump",
+        "id": 742637942,
+        "type": "Jump",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Idle 1",
+        "id": 742637544,
+        "type": "Idle",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Idle 2",
+        "id": 742638445,
+        "type": "Idle",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Idle 3",
+        "id": 885477856,
+        "type": "Idle",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Fall",
+        "id": 742637151,
+        "type": "Fall",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Swim",
+        "id": 742639220,
+        "type": "Swim",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony SwimIdle",
+        "id": 742639812,
+        "type": "SwimIdle",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Cartoony Climb",
+        "id": 742636889,
+        "type": "Climb",
+        "package": "Cartoony"
+    },
+    {
+        "name": "Elder Run",
+        "id": 845386501,
+        "type": "Run",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Walk",
+        "id": 845403856,
+        "type": "Walk",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Jump",
+        "id": 845398858,
+        "type": "Jump",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Idle 1",
+        "id": 845397899,
+        "type": "Idle",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Idle 2",
+        "id": 845400520,
+        "type": "Idle",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Idle 3",
+        "id": 901160519,
+        "type": "Idle",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Fall",
+        "id": 845396048,
+        "type": "Fall",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Swim",
+        "id": 845401742,
+        "type": "Swim",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder SwimIdle",
+        "id": 845403127,
+        "type": "SwimIdle",
+        "package": "Elder"
+    },
+    {
+        "name": "Elder Climb",
+        "id": 845392038,
+        "type": "Climb",
+        "package": "Elder"
+    },
+    {
+        "name": "Knight Run",
+        "id": 657564596,
+        "type": "Run",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Walk",
+        "id": 657552124,
+        "type": "Walk",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Jump",
+        "id": 658409194,
+        "type": "Jump",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Idle 1",
+        "id": 657595757,
+        "type": "Idle",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Idle 2",
+        "id": 657568135,
+        "type": "Idle",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Idle 3",
+        "id": 885499184,
+        "type": "Idle",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Fall",
+        "id": 657600338,
+        "type": "Fall",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Swim",
+        "id": 657560551,
+        "type": "Swim",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight SwimIdle",
+        "id": 657557095,
+        "type": "SwimIdle",
+        "package": "Knight"
+    },
+    {
+        "name": "Knight Climb",
+        "id": 658360781,
+        "type": "Climb",
+        "package": "Knight"
+    },
+    {
+        "name": "Levitation Run",
+        "id": 616010382,
+        "type": "Run",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Walk",
+        "id": 616013216,
+        "type": "Walk",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Jump",
+        "id": 616008936,
+        "type": "Jump",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Idle 1",
+        "id": 616006778,
+        "type": "Idle",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Idle 2",
+        "id": 616008087,
+        "type": "Idle",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Idle 3",
+        "id": 886862142,
+        "type": "Idle",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Fall",
+        "id": 616005863,
+        "type": "Fall",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Swim",
+        "id": 616011509,
+        "type": "Swim",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation SwimIdle",
+        "id": 616012453,
+        "type": "SwimIdle",
+        "package": "Levitation"
+    },
+    {
+        "name": "Levitation Climb",
+        "id": 616003713,
+        "type": "Climb",
+        "package": "Levitation"
+    },
+    {
+        "name": "Mage Run",
+        "id": 707861613,
+        "type": "Run",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Walk",
+        "id": 707897309,
+        "type": "Walk",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Jump",
+        "id": 707853694,
+        "type": "Jump",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Idle 1",
+        "id": 707742142,
+        "type": "Idle",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Idle 2",
+        "id": 707855907,
+        "type": "Idle",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Idle 3",
+        "id": 885508740,
+        "type": "Idle",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Fall",
+        "id": 707829716,
+        "type": "Fall",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Swim",
+        "id": 707876443,
+        "type": "Swim",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage SwimIdle",
+        "id": 707894699,
+        "type": "SwimIdle",
+        "package": "Mage"
+    },
+    {
+        "name": "Mage Climb",
+        "id": 707826056,
+        "type": "Climb",
+        "package": "Mage"
+    },
+    {
+        "name": "Ninja Run",
+        "id": 656118852,
+        "type": "Run",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Walk",
+        "id": 656121766,
+        "type": "Walk",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Jump",
+        "id": 656117878,
+        "type": "Jump",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Idle 1",
+        "id": 656117400,
+        "type": "Idle",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Idle 2",
+        "id": 656118341,
+        "type": "Idle",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Idle 3",
+        "id": 886742569,
+        "type": "Idle",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Fall",
+        "id": 656115606,
+        "type": "Fall",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Swim",
+        "id": 656119721,
+        "type": "Swim",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja SwimIdle",
+        "id": 656121397,
+        "type": "SwimIdle",
+        "package": "Ninja"
+    },
+    {
+        "name": "Ninja Climb",
+        "id": 656114359,
+        "type": "Climb",
+        "package": "Ninja"
+    },
+    {
+        "name": "Pirate Run",
+        "id": 750783738,
+        "type": "Run",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Walk",
+        "id": 750785693,
+        "type": "Walk",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Jump",
+        "id": 750782230,
+        "type": "Jump",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Idle 1",
+        "id": 750781874,
+        "type": "Idle",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Idle 2",
+        "id": 750782770,
+        "type": "Idle",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Idle 3",
+        "id": 885515365,
+        "type": "Idle",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Fall",
+        "id": 750780242,
+        "type": "Fall",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Swim",
+        "id": 750784579,
+        "type": "Swim",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate SwimIdle",
+        "id": 750785176,
+        "type": "SwimIdle",
+        "package": "Pirate"
+    },
+    {
+        "name": "Pirate Climb",
+        "id": 750779899,
+        "type": "Climb",
+        "package": "Pirate"
+    },
+    {
+        "name": "Robot Run",
+        "id": 616091570,
+        "type": "Run",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Walk",
+        "id": 616095330,
+        "type": "Walk",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Jump",
+        "id": 616090535,
+        "type": "Jump",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Idle 1",
+        "id": 616088211,
+        "type": "Idle",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Idle 2",
+        "id": 616089559,
+        "type": "Idle",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Idle 3",
+        "id": 885531463,
+        "type": "Idle",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Fall",
+        "id": 616087089,
+        "type": "Fall",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Swim",
+        "id": 616092998,
+        "type": "Swim",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot SwimIdle",
+        "id": 616094091,
+        "type": "SwimIdle",
+        "package": "Robot"
+    },
+    {
+        "name": "Robot Climb",
+        "id": 616086039,
+        "type": "Climb",
+        "package": "Robot"
+    },
+    {
+        "name": "Rthro Run",
+        "id": 2510198475,
+        "type": "Run",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Walk",
+        "id": 2510202577,
+        "type": "Walk",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Jump",
+        "id": 2510197830,
+        "type": "Jump",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Idle 1",
+        "id": 2510197257,
+        "type": "Idle",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Idle 2",
+        "id": 2510196951,
+        "type": "Idle",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Idle 3",
+        "id": 3711062489,
+        "type": "Idle",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Fall",
+        "id": 2510195892,
+        "type": "Fall",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Swim",
+        "id": 2510199791,
+        "type": "Swim",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro SwimIdle",
+        "id": 2510201162,
+        "type": "SwimIdle",
+        "package": "Rthro"
+    },
+    {
+        "name": "Rthro Climb",
+        "id": 2510192778,
+        "type": "Climb",
+        "package": "Rthro"
+    },
+    {
+        "name": "Stylish Run",
+        "id": 616140816,
+        "type": "Run",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Walk",
+        "id": 616146177,
+        "type": "Walk",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Jump",
+        "id": 616139451,
+        "type": "Jump",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Idle 1",
+        "id": 616136790,
+        "type": "Idle",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Idle 2",
+        "id": 616138447,
+        "type": "Idle",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Idle 3",
+        "id": 886888594,
+        "type": "Idle",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Fall",
+        "id": 616134815,
+        "type": "Fall",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Swim",
+        "id": 616143378,
+        "type": "Swim",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish SwimIdle",
+        "id": 616144772,
+        "type": "SwimIdle",
+        "package": "Stylish"
+    },
+    {
+        "name": "Stylish Climb",
+        "id": 616133594,
+        "type": "Climb",
+        "package": "Stylish"
+    },
+    {
+        "name": "Superhero Run",
+        "id": 616117076,
+        "type": "Run",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Walk",
+        "id": 616122287,
+        "type": "Walk",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Jump",
+        "id": 616115533,
+        "type": "Jump",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Idle 1",
+        "id": 616111295,
+        "type": "Idle",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Idle 2",
+        "id": 616113536,
+        "type": "Idle",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Idle 3",
+        "id": 885535855,
+        "type": "Idle",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Fall",
+        "id": 616108001,
+        "type": "Fall",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Swim",
+        "id": 616119360,
+        "type": "Swim",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero SwimIdle",
+        "id": 616120861,
+        "type": "SwimIdle",
+        "package": "Superhero"
+    },
+    {
+        "name": "Superhero Climb",
+        "id": 616104706,
+        "type": "Climb",
+        "package": "Superhero"
+    },
+    {
+        "name": "Toy Run",
+        "id": 782842708,
+        "type": "Run",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Walk",
+        "id": 782843345,
+        "type": "Walk",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Jump",
+        "id": 782847020,
+        "type": "Jump",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Idle 1",
+        "id": 782841498,
+        "type": "Idle",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Idle 2",
+        "id": 782845736,
+        "type": "Idle",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Idle 3",
+        "id": 980952228,
+        "type": "Idle",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Fall",
+        "id": 782846423,
+        "type": "Fall",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Swim",
+        "id": 782844582,
+        "type": "Swim",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy SwimIdle",
+        "id": 782845186,
+        "type": "SwimIdle",
+        "package": "Toy"
+    },
+    {
+        "name": "Toy Climb",
+        "id": 782843869,
+        "type": "Climb",
+        "package": "Toy"
+    },
+    {
+        "name": "Vampire Run",
+        "id": 1083462077,
+        "type": "Run",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Walk",
+        "id": 1083473930,
+        "type": "Walk",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Jump",
+        "id": 1083455352,
+        "type": "Jump",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Idle 1",
+        "id": 1083445855,
+        "type": "Idle",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Idle 2",
+        "id": 1083450166,
+        "type": "Idle",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Idle 3",
+        "id": 1088037547,
+        "type": "Idle",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Fall",
+        "id": 1083443587,
+        "type": "Fall",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Swim",
+        "id": 1083464683,
+        "type": "Swim",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire SwimIdle",
+        "id": 1083467779,
+        "type": "SwimIdle",
+        "package": "Vampire"
+    },
+    {
+        "name": "Vampire Climb",
+        "id": 1083439238,
+        "type": "Climb",
+        "package": "Vampire"
+    },
+    {
+        "name": "Werewolf Run",
+        "id": 1083216690,
+        "type": "Run",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Walk",
+        "id": 1083178339,
+        "type": "Walk",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Jump",
+        "id": 1083218792,
+        "type": "Jump",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Idle 1",
+        "id": 1083195517,
+        "type": "Idle",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Idle 2",
+        "id": 1083214717,
+        "type": "Idle",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Idle 3",
+        "id": 1099492820,
+        "type": "Idle",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Fall",
+        "id": 1083189019,
+        "type": "Fall",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Swim",
+        "id": 1083222527,
+        "type": "Swim",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf SwimIdle",
+        "id": 1083225406,
+        "type": "SwimIdle",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Werewolf Climb",
+        "id": 1083182000,
+        "type": "Climb",
+        "package": "Werewolf"
+    },
+    {
+        "name": "Zombie Run",
+        "id": 616163682,
+        "type": "Run",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Walk",
+        "id": 616168032,
+        "type": "Walk",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Jump",
+        "id": 616161997,
+        "type": "Jump",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Idle 1",
+        "id": 616158929,
+        "type": "Idle",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Idle 2",
+        "id": 616160636,
+        "type": "Idle",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Idle 3",
+        "id": 885545458,
+        "type": "Idle",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Fall",
+        "id": 616157476,
+        "type": "Fall",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Swim",
+        "id": 616165109,
+        "type": "Swim",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie SwimIdle",
+        "id": 616166655,
+        "type": "SwimIdle",
+        "package": "Zombie"
+    },
+    {
+        "name": "Zombie Climb",
+        "id": 616156119,
+        "type": "Climb",
+        "package": "Zombie"
+    }
+]
