@@ -64,21 +64,6 @@ python main.py
 `DISCORD_TOKEN` được ưu tiên đọc từ biến môi trường. Nếu không có, bot sẽ
 đọc từ file `token.txt` ở thư mục gốc (tiện cho phát triển local).
 
-## Bảo mật — quan trọng
-
-File zip gốc bạn gửi có chứa **token Discord thật** trong `token.txt` và
-**2 API key SerpApi hardcode thẳng trong code** (`news_view.py`,
-`youtube_view.py`). Cả ba đã bị lộ ra ngoài (nằm trong file bạn tải lên).
-
-Bạn nên coi các key này là đã bị lộ và **thu hồi / tạo lại ngay**:
-- Discord: Developer Portal → Application → Bot → Reset Token
-- SerpApi: đổi API key trong dashboard SerpApi
-- Groq: kiểm tra và xoay vòng key nếu từng bị commit lên nơi công khai
-
-Trong bản chỉnh sửa này, hai key SerpApi đã được chuyển sang đọc từ biến
-môi trường giống các key khác. `token.txt` và `.env` đã được thêm vào
-`.gitignore` để không bao giờ bị commit lên Git.
-
 ## Ghi chú
 
 - Cấu trúc này giữ nguyên toàn bộ logic gốc, chỉ đổi tên file/thư mục và
